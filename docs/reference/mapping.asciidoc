@@ -6,7 +6,7 @@
 
 Mapping is the process of defining how a document, and the fields it contains,
 are stored and indexed.  For instance, use mappings to define:
-
+Mapping是定义一个document过程
 * which string fields should be treated as full text fields.
 * which fields contain numbers, dates, or geolocations.
 * whether the values of all fields in the document should be
